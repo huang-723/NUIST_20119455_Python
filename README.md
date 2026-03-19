@@ -1,2 +1,4 @@
 # NUIST_20119455_Python
-Huang Yufan 20119455
+local to remoteconnect
+NAME: Huang Yufan 20119455
+MODULE: Project Semester2 2026
