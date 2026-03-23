@@ -19,3 +19,7 @@
   366  git status
   367  git log
   368  git push
+  369  nano Exercise6.py
+  370  git add Exercise6.py
+  371  git commit -m "Add Lab1 Exercise6"
+  372  git push
