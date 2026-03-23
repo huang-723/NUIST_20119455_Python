@@ -1,0 +1,21 @@
+348  git clone https://github.com/huang-723/NUIST_20119455_Python.git
+  349  cd NUIST_20119455_Python
+  350  touch AddTwoNums.py
+  351  python AddTwoNums.py
+  352  nano AddTwoNums.py
+  353  python AddTwoNums.py
+  354  git add AddTwoNums.py
+  355   git commit -m "Add Version1 AddTwoNums.py"
+  356  git status
+  357  git push
+  358  nano AddTwoNums.py
+  359  git add AddTwoNums.py
+  360  git commit -m "Update to Version2 AddTwoNums.py"
+  361  git log
+  362  git push
+  363  nano AddTwoNums.py
+  364  git add AddTwoNums.py
+  365  git commit -m "Update to Version3 AddTwoNums.py"
+  366  git status
+  367  git log
+  368  git push
